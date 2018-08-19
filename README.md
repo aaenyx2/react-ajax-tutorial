@@ -95,3 +95,6 @@ Semantic-UI 의 엘리먼트들이 모두 React 컴포넌트들로 구성되고,
 
   export default PostContainer;
 
+### 7. 이후. 같은 방법으로 Navigator, Post, CommentList, Comment Component 생성
+
+## 3. AJAX 구현

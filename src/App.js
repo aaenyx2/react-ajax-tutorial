@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Header, Navigate } from './components';
+import { Header } from './components';
 import { PostContainer } from './containers';
 
 class App extends Component {
